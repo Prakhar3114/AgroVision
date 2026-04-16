@@ -409,8 +409,8 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - 🎓 B.Tech CSE (Data Science & AI) - SRM University, Sonepat
 - 📍 Location: Prayagraj, Uttar Pradesh
 - 🔗 [GitHub](https://github.com/Prakhar3114)
-- 💼 [LinkedIn](https://linkedin.com/in/prakhar-garg)
-- 📧 Email: prakhar.garg@example.com
+- 💼 [LinkedIn](www.linkedin.com/in/prakhar-garg-b78304316)
+- 📧 Email: prakhargarg3114@gmail.com
 
 ## 🙏 Acknowledgments
 
