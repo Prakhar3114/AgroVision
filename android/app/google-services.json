@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874034184510",
+    "project_id": "agrovision-9ecea",
+    "storage_bucket": "agrovision-9ecea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874034184510:android:fa4618ba11210293e6ac6f",
+        "android_client_info": {
+          "package_name": "com.example.plant_disease_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9EacmJWpwTYQU4xx9SUjoZZgOMdaqtyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

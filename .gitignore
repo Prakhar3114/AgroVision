@@ -1,0 +1,67 @@
+﻿# Virtual Environments
+venv/
+env/
+ENV/
+.venv/
+newenv/
+envs/
+
+# Python Cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Environment Variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Dependencies
+node_modules/
+
+# Flutter
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+pubspec.lock
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Android
+/android/.gradle
+/android/build
+/android/local.properties
+android/.idea
+*.jks
+*.keystore
+
+# iOS
+/ios/Pods/
+/ios/.symlinks/
+/ios/Flutter/Flutter.framework
+/ios/Flutter/Generated.xcconfig
+
+# Keep important files
+!requirements.txt
+!pubspec.yaml

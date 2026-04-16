@@ -1,0 +1,16 @@
+# Git LFS - Large Model Files
+*.tflite filter=lfs diff=lfs merge=lfs -text
+*.keras filter=lfs diff=lfs merge=lfs -text
+*.h5 filter=lfs diff=lfs merge=lfs -text
+*.pkl filter=lfs diff=lfs merge=lfs -text
+*.zip filter=lfs diff=lfs merge=lfs -text
+
+# Binary files
+*.apk filter=lfs diff=lfs merge=lfs -text
+*.ipa filter=lfs diff=lfs merge=lfs -text
+
+# Media files
+*.png binary
+*.jpg binary
+*.jpeg binary
+
