@@ -403,7 +403,7 @@ Contributions welcome! Here's how:
 
 This project is licensed under the MIT License - see LICENSE file for details.
 
-## 👨‍💻 Author
+## 👨‍💻 Contributors
 
 **Prakhar Garg**
 - 🎓 B.Tech CSE (Data Science & AI) - SRM University, Sonepat
@@ -411,6 +411,20 @@ This project is licensed under the MIT License - see LICENSE file for details.
 - 🔗 [GitHub](https://github.com/Prakhar3114)
 - 💼 [LinkedIn](https://www.linkedin.com/in/prakhar-garg-b78304316/)
 - 📧 Email: prakhargarg3114@gmail.com
+
+**Mukul Rajput**
+- 🎓 B.Tech CSE (Data Science & AI) - SRM University, Sonepat
+- 📍 Location: Sonipat, Haryana
+- 🔗 [GitHub](https://github.com/Ithubcoder)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mukul-rajput-575298276/)
+- 📧 Email: 2021m.rajput@gmail.com
+
+**Priyanshu Dahiya**
+- 🎓 B.Tech CSE (Data Science & AI) - SRM University, Sonepat
+- 📍 Location: Sonipat, Haryana
+- 🔗 [GitHub](https://github.com/dahiyapriyanshu215)
+- 💼 [LinkedIn](https://www.linkedin.com/in/priyanshu-dahiya-411991267/)
+- 📧 Email: dahiyapriyanshu215@gmail.com
 
 ## 🙏 Acknowledgments
 
